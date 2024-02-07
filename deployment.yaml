@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: cithit/cit225-example:latest
+        image: cithit/roseaw-test1:latest
         ports:
         - containerPort: 80  # Expose NGINX on port 80
 
